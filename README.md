@@ -1,52 +1,60 @@
-# Hi 👋, I'm Matt Henry Buenaventura
+<div align="center">
 
-****
+# ✨ Matt Henry Buenaventura ✨
+
+<p><em>Software developer passionate about creating amazing applications</em></p>
+
+<hr>
+
+</div>
 
 ## 🌱 I'm currently learning
 
-Learning Next.js on Frontend and MySQL on Backend
+<div align="center"><p>Learning Next.js on Frontend and MySQL on Backend</p></div>
 
 ## 📊 GitHub Stats
 
 <!-- ⚠️ Important: Replace 'IamMattHenry' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamMattHenry&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IamMattHenry&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<img src="https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+**🎨 Frontend**
 
-### ⚙️ Backend
+`Next.js` • `React` • `Tailwind` • `Bootstrap`
 
-<img src="https://img.shields.io/badge/.NET-4169e1?style=for-the-badge&logo=.net&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> 
+**⚙️ Backend**
 
-### 💬 Languages
+`.NET` • `MongoDB` • `MySQL` • `Node.js`
 
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-FFA500?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> 
+**💬 Languages**
+
+`JavaScript` • `TypeScript` • `C#` • `Python`
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/IamMattHenry) 
+<a href="https://github.com/IamMattHenry"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 </div>
 
 ## 📫 How to reach me
 
-<div align="left">
+<div align="center">
 
-📧 **Email:** [matthenry1005200@gmail.com](mailto:matthenry1005200@gmail.com)
+**Email:** matthenry1005200@gmail.com
 
 </div>
 
----
-⭐️ From [Matt Henry Buenaventura](https://github.com/IamMattHenry)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/IamMattHenry/count.svg" alt="Visitor Count" />
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
 </div>
